@@ -21,8 +21,10 @@ this is my powershell settings where I tried to make the linux command functiona
    - `bsod` - ⚠ This command requires administrator rights.
 
 ## Prompt
-   - without amdin
+   - without admin
       ![preview](preview.png)
+   - with admin
+      ![preview_with_adm](preview with admin.png)
 ## How to use
    - ### `pkill`
    ```powershell

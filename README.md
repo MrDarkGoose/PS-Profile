@@ -21,11 +21,13 @@ this is my powershell settings where I tried to make the linux command functiona
    - `bsod` - ⚠ This command requires administrator rights.
 
 ## Prompt
-   - without admin
+   - **Without admin**
       ![preview](preview.png)
+      - error
       ![preview-err](preview-err.png)
-   - with admin
+   - **With admin**
       ![preview-with-adm](preview-with-admin.png)
+      - error
       ![preview-with-adm-err](preview-with-admin-err.png)
 ## How to use
    - ### `pkill`

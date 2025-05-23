@@ -22,15 +22,15 @@ this is my powershell settings where I tried to make the linux command functiona
 
 ## How to use
    - ### `pkill`
-   ```
+   ```powershell
    pkill "program names"
    ```
    - ### `grep`
-   ```bash
+   ```powershell
    grep "word" "namefile"
    ```
 or
-   ```bash
+   ```powershell
    command | grep "word"
    ```
 

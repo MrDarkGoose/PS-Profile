@@ -13,10 +13,6 @@ this is my powershell settings where I tried to make the linux command functiona
    - `ls` - navigates files from the folder where the user is located (this command is also available in regular powershell, but I made it more similar to the linux version).
    - `mkdir` - creates a folder (it is in powershell natively, but I made a similar one for the linux version).
    - `pwd` - to show which package the user is in (it is in powershell in native, but I made it look like the linux version).
-   - `toggle-errmsg` - Initially it is written in the config not to display errors, but if you need to see what the reason is you can turn it on and also turn it off again.
-   - `cum` - **CUM - Clear Used Memory**, this command clears the RAM
-   - `bsod` - the `bsod` command requires administrator privileges 
-
 2. Custom command
    - `history` - shows the entire history of the teams over time
    - `reload-explorer` - restarts explorer or starts it if it is not running

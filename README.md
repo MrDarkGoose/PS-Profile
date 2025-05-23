@@ -22,7 +22,7 @@ this is my powershell settings where I tried to make the linux command functiona
 
 ## Prompt
    - without amdin
-      [preview](MrDarkGoose/PS-Profile/preview.png)
+      ![preview](MrDarkGoose/PS-Profile/preview.png)
 ## How to use
    - ### `pkill`
    ```powershell

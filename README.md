@@ -25,6 +25,14 @@ this is my powershell settings where I tried to make the linux command functiona
    ```
    pkill "program names"
    ```
+   - ### `grep`
+   ```
+   grep "word" "namefile"
+   ```
+   or
+   ```
+   command | grep "word"
+   ```
 
 ## How to install
 1. Clone repository 

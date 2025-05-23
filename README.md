@@ -43,6 +43,10 @@ or
    ```powershell
    ls parameter
    ```
+   or
+   ```powershell
+   ls paramter path
+   ```
 
 ## How to install
 1. Clone repository 

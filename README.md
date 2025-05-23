@@ -51,7 +51,7 @@ or
 git clone https://github.com/MrDarkGoose/PS-Profile.git
 ```
 2. Copy and past to the folder ```C:\Users\%username%\Documents\WindowsPowerShell```
-  - If you don't have a folder, create one.
+   - If you don't have a folder, create one.
 
 ```bash
 mkdir C:\Users\$env:USERNAME\Documents\WindowsPowerShell

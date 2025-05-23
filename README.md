@@ -26,7 +26,7 @@ this is my powershell settings where I tried to make the linux command functiona
       ![preview-err]()
    - with admin
       ![preview-with-adm](preview-with-admin.png)
-      ![preview-with-adm-err]()
+      ![preview-with-adm-err](preview-with-admin-err.png)
 ## How to use
    - ### `pkill`
    ```powershell

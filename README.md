@@ -29,7 +29,7 @@ this is my powershell settings where I tried to make the linux command functiona
    ```
    grep "word" "namefile"
    ```
-   ### or
+      ### or
    ```
    command | grep "word"
    ```

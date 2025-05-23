@@ -24,7 +24,7 @@ this is my powershell settings where I tried to make the linux command functiona
    - without admin
       ![preview](preview.png)
    - with admin
-      ![preview_with_adm](preview with admin.png)
+      ![preview_with_adm](preview-with-admin.png)
 ## How to use
    - ### `pkill`
    ```powershell

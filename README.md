@@ -20,6 +20,12 @@ this is my powershell settings where I tried to make the linux command functiona
    - `cum` - **CUM - Clear Used Memory**,this command clears RAM
    - `bsod` - ⚠ This command requires administrator rights.
 
+## How to use
+   - `pkill`
+   ```
+   pkill "program names"
+   ```
+
 ## How to install
 1. Clone repository 
 ```bash

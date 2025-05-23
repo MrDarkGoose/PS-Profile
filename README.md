@@ -23,7 +23,7 @@ this is my powershell settings where I tried to make the linux command functiona
 ## Prompt
    - without admin
       ![preview](preview.png)
-      ![preview-err]()
+      ![preview-err](preview-err.png)
    - with admin
       ![preview-with-adm](preview-with-admin.png)
       ![preview-with-adm-err](preview-with-admin-err.png)

@@ -20,7 +20,7 @@ this is my powershell settings where I tried to make the linux command functiona
 2. Custom command
    - `history` - shows the entire history of the teams over time
    - `reload-explorer` - restarts explorer or starts it if it is not running
-   - 
+   - `toggle-errmsg` - 
 
 ## How to install
 1. Clone repository 

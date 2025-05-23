@@ -26,11 +26,11 @@ this is my powershell settings where I tried to make the linux command functiona
    pkill "program names"
    ```
    - ### `grep`
-   ```
+   ```bash
    grep "word" "namefile"
    ```
-   - ### or
-   ```
+or
+   ```bash
    command | grep "word"
    ```
 

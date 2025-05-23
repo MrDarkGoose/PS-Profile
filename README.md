@@ -21,7 +21,7 @@ this is my powershell settings where I tried to make the linux command functiona
    - `bsod` - ⚠ This command requires administrator rights.
 
 ## How to use
-   - `pkill`
+   - ###`pkill`
    ```
    pkill "program names"
    ```

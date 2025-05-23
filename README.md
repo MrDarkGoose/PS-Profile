@@ -23,11 +23,12 @@ this is my powershell settings where I tried to make the linux command functiona
 ## Prompt
    - **Without admin**
       ![preview](preview.png)
-      - error
+   - Error
       ![preview-err](preview-err.png)
+   
    - **With admin**
       ![preview-with-adm](preview-with-admin.png)
-      - error
+   - Error
       ![preview-with-adm-err](preview-with-admin-err.png)
 ## How to use
    - ### `pkill`

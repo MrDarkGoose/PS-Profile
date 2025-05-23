@@ -33,6 +33,13 @@ or
    ```powershell
    command | grep "word"
    ```
+   - ### `ls`
+     - `-a` - shows all files even if they are hidden.
+     - `-r` - shows files in folders from the folder where the user is located.
+     - `-d` - shows only folders.
+   ```powershell
+   ls parameter
+   ```
 
 ## How to install
 1. Clone repository 

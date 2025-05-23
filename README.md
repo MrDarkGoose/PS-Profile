@@ -20,7 +20,8 @@ this is my powershell settings where I tried to make the linux command functiona
 2. Custom command
    - `history` - shows the entire history of the teams over time
    - `reload-explorer` - restarts explorer or starts it if it is not running
-   - `toggle-errmsg` - 
+   - `toggle-errmsg` - and initially in the config it is written that there is no error output, but with this command you can enable or disable the output.
+   - `cum` - **CUM - Clear Used Memory**,this command clears RAM
 
 ## How to install
 1. Clone repository 

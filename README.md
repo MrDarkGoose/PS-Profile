@@ -20,6 +20,9 @@ this is my powershell settings where I tried to make the linux command functiona
    - `cum` - **CUM - Clear Used Memory**,this command clears RAM
    - `bsod` - ⚠ This command requires administrator rights.
 
+## Prompt
+
+
 ## How to use
    - ### `pkill`
    ```powershell
@@ -46,10 +49,10 @@ or
 ```bash
 git clone https://github.com/MrDarkGoose/PS-Profile.git
 ```
-2. Copy and past to the folder ```C:\Users\white\Documents\WindowsPowerShell```
+2. Copy and past to the folder ```C:\Users\$env:USERNAME\Documents\WindowsPowerShell```
   - If you don't have a folder, create one.
 
 ```bash
-mkdir C:\Users\white\Documents\WindowsPowerShell
+mkdir C:\Users\$env:USERNAME\Documents\WindowsPowerShell
 ```
 

@@ -17,7 +17,7 @@ this is my powershell settings where I tried to make the linux command functiona
    - `history` - shows the entire history of the teams over time
    - `reload-explorer` - restarts explorer or starts it if it is not running
    - `toggle-errmsg` - and initially in the config it is written that there is no error output, but with this command you can enable or disable the output.
-   - `cum` - **CUM - Clear Used Memory**,this command clears RAM
+   - `cum` - **Clear Used Memory** - this command clears RAM
    - `bsod` - ⚠ This command requires administrator rights.
 
 ## How to use

@@ -19,6 +19,7 @@ this is my powershell settings where I tried to make the linux command functiona
    - `toggle-errmsg` - and initially in the config it is written that there is no error output, but with this command you can enable or disable the output.
    - `cum` - **Clear Used Memory** - this command clears RAM
    - `bsod` - ⚠ This command requires administrator rights.
+   - `get-ip` - this command gets the external IP address and if you use the `-l` flag, the local IP will be displayed as well.
 
 ## How to use
    - ### `pkill`
@@ -32,6 +33,11 @@ this is my powershell settings where I tried to make the linux command functiona
 or
    ```powershell
    command | grep "word"
+   ```
+   - ### `get-ip`
+     - `-l` - shows the local IP
+   ```powershell
+   get-ip parameter
    ```
    - ### `ls`
      - `-a` - shows all files even if they are hidden.

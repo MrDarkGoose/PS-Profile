@@ -56,13 +56,12 @@ or
 ```powershell
 git clone https://github.com/MrDarkGoose/PS-Profile.git
 ```
-2. Paste the following command
-```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-```
-3. Copy and past to the folder ```C:\Users\%username%\Documents\WindowsPowerShell```
+2. Copy and past to the folder ```C:\Users\%username%\Documents\WindowsPowerShell```
    - If you don't have a folder, create one.
 ```powershell
 mkdir C:\Users\$env:USERNAME\Documents\WindowsPowerShell
 ```
-
+3. Paste the following command
+```powershell
+Unblock-File -Path "$HOME\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
+```

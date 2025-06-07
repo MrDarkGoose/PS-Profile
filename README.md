@@ -53,13 +53,16 @@ or
 
 ## How to install
 1. Clone repository 
-```bash
+```powershell
 git clone https://github.com/MrDarkGoose/PS-Profile.git
 ```
-2. Copy and past to the folder ```C:\Users\%username%\Documents\WindowsPowerShell```
-  - If you don't have a folder, create one.
-
-```bash
+3. Paste the following command
+```powershell
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+```
+3. Copy and past to the folder ```C:\Users\%username%\Documents\WindowsPowerShell```
+   - If you don't have a folder, create one.
+```powershell
 mkdir C:\Users\$env:USERNAME\Documents\WindowsPowerShell
 ```
 

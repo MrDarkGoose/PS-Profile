@@ -58,7 +58,7 @@ git clone https://github.com/MrDarkGoose/PS-Profile.git
 ```
 2. Paste the following command
 ```powershell
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 3. Copy and past to the folder ```C:\Users\%username%\Documents\WindowsPowerShell```
    - If you don't have a folder, create one.

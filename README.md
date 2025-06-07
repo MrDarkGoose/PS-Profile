@@ -56,7 +56,7 @@ or
 ```powershell
 git clone https://github.com/MrDarkGoose/PS-Profile.git
 ```
-3. Paste the following command
+2. Paste the following command
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 ```
